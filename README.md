@@ -98,9 +98,21 @@ An AI-native multi-agent photography product designed to support complex photogr
 
 **个人职责 | My Role**
 
-产品规划、多 Agent 产品设计、Vibe Coding 开发、质量验证及持续迭代。
+**中文**
 
-Product planning, multi-agent product design, AI-assisted development, quality validation, and continuous iteration.
+独立负责 AI Native 多专家协作摄影产品从需求分析、产品规划、架构设计到上线交付的完整过程。
+
+设计由 1 名摄影总监与 6 名专业摄影专家组成的多 Agent 协作体系，围绕任务识别、专家分工、动态调度与结果整合，构建面向复杂摄影场景的协作工作流。
+
+通过 Vibe Coding 完成产品开发、功能验证与持续迭代，重点优化专家协作效率、任务执行稳定性及专业建议的一致性，并推动产品在 WorkBuddy 平台上线。
+
+**English**
+
+Led the end-to-end development of an AI-native multi-agent photography product, from requirements analysis and product strategy to architecture design and launch.
+
+Designed a collaborative multi-agent system consisting of one photography director and six specialized experts, establishing workflows for task identification, expert coordination, dynamic orchestration, and response synthesis.
+
+Used Vibe Coding for hands-on product development, functional validation, and continuous iteration, focusing on collaboration efficiency, execution reliability, and consistency of professional recommendations. Successfully launched the product on WorkBuddy.
 
 **产品展示 | Product Showcase**
 
