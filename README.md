@@ -2,13 +2,13 @@
 
 ### AI 原生产品负责人 · AI 产品战略 · Agent 产品 · Vibe Coding
 
-**中文**
+🇨🇳**中文**
 
 具备多年互联网及企业级软件产品管理经验，覆盖产品战略、产品规划、用户体验、研发协作与产品商业化。
 
 近年来聚焦 AI Native 产品创新与实践，探索大语言模型、AI Agent 及 Vibe Coding 在真实业务场景中的应用，并独立完成单 Agent 与多 Agent 两种形态的 AI 产品开发实践。
 
-**English**
+🇬🇧**English**
 
 Experienced product leader with a background in internet and enterprise software products, spanning product strategy, planning, user experience, cross-functional delivery, and commercialization.
 
@@ -50,23 +50,23 @@ Experienced in end-to-end product management, with a focus on customer value, us
 
 **AI Native · Single-Agent · Vibe Coding**
 
-**中文**
+🇨🇳**中文**
 
 面向摄影爱好者与专业摄影用户的 AI 摄影辅助产品，提供摄影知识咨询、拍摄建议与创作辅助服务。
 
-**English**
+🇬🇧**English**
 
 An AI-native photography assistant designed for enthusiasts and professional photographers, providing photography guidance, shooting recommendations, and creative support.
 
 **个人职责 | My Role**
 
-**中文**
+🇨🇳**中文**
 
 独立负责 AI Native 摄影产品从需求分析、产品规划到上线交付的完整过程。
 
 基于真实摄影场景设计 AI Agent 产品体验，通过 Vibe Coding 完成产品开发、功能验证与持续迭代，并推动产品在 WorkBuddy 平台上线。
 
-**English**
+🇬🇧**English**
 
 Led the end-to-end development of an AI-native photography product, from user needs analysis and product planning to launch.
 
@@ -88,17 +88,17 @@ Designed the AI Agent product experience around real-world photography scenarios
 
 **AI Native · Multi-Agent · Vibe Coding**
 
-**中文**
+🇨🇳**中文**
 
 面向复杂摄影需求的多专家协作 AI 产品，提供综合性的摄影咨询与创作辅助服务。
 
-**English**
+🇬🇧**English**
 
 An AI-native multi-agent photography product designed to support complex photography needs through collaborative expert assistance.
 
 **个人职责 | My Role**
 
-**中文**
+🇨🇳**中文**
 
 独立负责 AI Native 多专家协作摄影产品从需求分析、产品规划、架构设计到上线交付的完整过程。
 
@@ -106,7 +106,7 @@ An AI-native multi-agent photography product designed to support complex photogr
 
 通过 Vibe Coding 完成产品开发、功能验证与持续迭代，重点优化专家协作效率、任务执行稳定性及专业建议的一致性，并推动产品在 WorkBuddy 平台上线。
 
-**English**
+🇬🇧**English**
 
 Led the end-to-end development of an AI-native multi-agent photography product, from requirements analysis and product strategy to architecture design and launch.
 
@@ -115,8 +115,6 @@ Designed a collaborative multi-agent system consisting of one photography direct
 Used Vibe Coding for hands-on product development, functional validation, and continuous iteration, focusing on collaboration efficiency, execution reliability, and consistency of professional recommendations. Successfully launched the product on WorkBuddy.
 
 **产品展示 | Product Showcase**
-
-**产品介绍页 | Product Overview**
 
 **产品介绍页 | Product Overview**
 
@@ -130,13 +128,13 @@ Used Vibe Coding for hands-on product development, functional validation, and co
 
 ## 03｜AI 产品实践与交付 · AI Product Development & Delivery
 
-**中文**
+🇨🇳**中文**
 
 通过 AI 辅助开发工具，探索产品经理直接参与软件开发的新型工作模式。
 
 已完成单 Agent 与多 Agent 两类 AI Native 产品的实际开发实践，覆盖产品定义、功能实现、测试验证及版本迭代。
 
-**English**
+🇬🇧**English**
 
 Exploring AI-assisted software development as a practical approach for product managers to participate directly in product implementation.
 
@@ -150,13 +148,13 @@ Hands-on experience delivering single-agent and multi-agent AI-native products, 
 
 ## 04｜关于本作品集 · About This Portfolio
 
-**中文**
+🇨🇳**中文**
 
 本 GitHub 主页用于展示个人 AI 产品管理能力、AI Native 产品实践经历及代表性项目成果。
 
 部分项目为非开源产品，因此不公开核心源代码、Prompt、Skills、内部配置及其他专有技术资料。
 
-**English**
+🇬🇧**English**
 
 This GitHub profile highlights my experience in AI product management, AI-native product development, and selected project outcomes.
 
