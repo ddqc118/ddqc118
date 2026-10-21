@@ -66,7 +66,13 @@ Product planning, agent design, AI-assisted development, testing, and iterative 
 
 **产品展示 | Product Showcase**
 
-*产品 Logo 与精选截图即将添加。*
+**产品介绍页 | Product Overview**
+
+![AI 摄影大师产品介绍 | Photo Master Product Overview](assets/photo-master/photo-master-overview.png)
+
+**平台搜索结果 | Platform Search Results**
+
+![AI 摄影大师平台搜索结果 | Photo Master Search Results](assets/photo-master/photo-master-search.png)
 
 ---
 
@@ -92,11 +98,13 @@ Product planning, multi-agent product design, AI-assisted development, quality v
 
 **产品介绍页 | Product Overview**
 
-![AI 摄影大师 - 产品介绍页 | Photo Master Product Overview](assets/photo-master/photo-master-overview.png)
+**产品介绍页 | Product Overview**
 
-**平台搜索页 | Platform Search Results**
+![摄影大师团产品介绍 | Photography Team Product Overview](assets/photography-team/photography-team-overview.png)
 
-![AI 摄影大师 - WorkBuddy 搜索结果 | Photo Master Search Results](assets/photo-master/photo-master-search.png)
+**平台搜索结果 | Platform Search Results**
+
+![摄影大师团平台搜索结果 | Photography Team Search Results](assets/photography-team/photography-team-search.png)
 
 ---
 
