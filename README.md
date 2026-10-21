@@ -90,7 +90,13 @@ Product planning, multi-agent product design, AI-assisted development, quality v
 
 **产品展示 | Product Showcase**
 
-*产品 Logo 与精选截图即将添加。*
+**产品介绍页 | Product Overview**
+
+![AI 摄影大师 - 产品介绍页 | Photo Master Product Overview](assets/photo-master/photo-master-overview.png)
+
+**平台搜索页 | Platform Search Results**
+
+![AI 摄影大师 - WorkBuddy 搜索结果 | Photo Master Search Results](assets/photo-master/photo-master-search.png)
 
 ---
 
