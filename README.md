@@ -60,9 +60,17 @@ An AI-native photography assistant designed for enthusiasts and professional pho
 
 **个人职责 | My Role**
 
-产品规划、Agent 产品设计、Vibe Coding 开发、测试验证及版本迭代。
+**中文**
 
-Product planning, agent design, AI-assisted development, testing, and iterative delivery.
+独立负责 AI Native 摄影产品从需求分析、产品规划到上线交付的完整过程。
+
+基于真实摄影场景设计 AI Agent 产品体验，通过 Vibe Coding 完成产品开发、功能验证与持续迭代，并推动产品在 WorkBuddy 平台上线。
+
+**English**
+
+Led the end-to-end development of an AI-native photography product, from user needs analysis and product planning to launch.
+
+Designed the AI Agent product experience around real-world photography scenarios, using Vibe Coding for hands-on development, functional validation, and iterative improvement. Successfully launched the product on WorkBuddy.
 
 **产品展示 | Product Showcase**
 
